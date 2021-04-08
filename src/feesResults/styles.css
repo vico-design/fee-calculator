@@ -1,0 +1,10 @@
+h2,
+h3 {
+  color: white;
+  margin-bottom: 5px;
+}
+
+h3 {
+  font-size: 14px;
+  letter-spacing: 1px;
+}
